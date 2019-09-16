@@ -19,5 +19,5 @@ persona.saludar
 persona.caminar
 
 #pausar la pantalla de ejecución
-system("pause")
+#system("pause")
 
